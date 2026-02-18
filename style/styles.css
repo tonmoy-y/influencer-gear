@@ -372,5 +372,8 @@ width: 80%;
     /* justify-content: center; */
     margin: 0 auto;
 }
+.featured-text {
+    padding: 1%;
+}
 
 }
